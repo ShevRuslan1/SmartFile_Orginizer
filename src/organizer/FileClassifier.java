@@ -1,4 +1,4 @@
-package orginizer;
+package organizer;
 import java.nio.file.Path;
 import java.util.Locale;
 import java.util.Map;
